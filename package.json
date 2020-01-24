@@ -1,5 +1,6 @@
 {
   "name": "ble-wifi-provisioner",
+  "homepage": "https://swanav.github.io/BLE-WiFiProvisioner/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
