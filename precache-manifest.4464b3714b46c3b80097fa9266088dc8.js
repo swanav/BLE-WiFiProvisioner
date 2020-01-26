@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a54cb9dee22664cf5366416171365377",
+    "revision": "ed6a51d364df28efdd3063d2a968ce25",
     "url": "/BLE-WiFiProvisioner/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BLE-WiFiProvisioner/static/css/2.a66d8c4d.chunk.css"
   },
   {
-    "revision": "855533f1ebf8b46967df",
+    "revision": "898ccb0d197c8deab0b8",
     "url": "/BLE-WiFiProvisioner/static/css/main.13582e5a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BLE-WiFiProvisioner/static/js/2.1fa84dd1.chunk.js.LICENSE"
   },
   {
-    "revision": "855533f1ebf8b46967df",
-    "url": "/BLE-WiFiProvisioner/static/js/main.99541f66.chunk.js"
+    "revision": "898ccb0d197c8deab0b8",
+    "url": "/BLE-WiFiProvisioner/static/js/main.2301a3a2.chunk.js"
   },
   {
     "revision": "4bbafdbf964e74ca9ac7",
