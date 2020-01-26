@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2df2aece851761d11662e2e3cd6b24bc",
+    "revision": "abcf4fd61f7ae9041e4eb2b2528769ea",
     "url": "/BLE-WiFiProvisioner/index.html"
   },
   {

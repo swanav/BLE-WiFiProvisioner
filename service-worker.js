@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BLE-WiFiProvisioner/precache-manifest.64fde15143dcd0ace1742d0d3126d103.js"
+  "/BLE-WiFiProvisioner/precache-manifest.732695393a3aefd3b0276d240a8d07a1.js"
 );
 
 self.addEventListener('message', (event) => {
